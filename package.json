@@ -1,0 +1,19 @@
+{
+  "name": "udemy-ts-course",
+  "version": "1.0.0",
+  "description": "Udemy Basic Typescript course",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eclavijorios/Udemy-Understanding-TypeScript.git"
+  },
+  "author": "eclavijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eclavijorios/Udemy-Understanding-TypeScript/issues"
+  },
+  "homepage": "https://github.com/eclavijorios/Udemy-Understanding-TypeScript#readme"
+}
